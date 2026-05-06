@@ -1,4 +1,4 @@
-# Projeto RITA - Chatbot e CRUD para Operadora de Crédito
+# Chatbot Simulação de Operador de Crédito
 
 Este projeto é uma simulação de um sistema para um correspondente bancário/operadora de crédito. Ele é dividido em dois componentes principais: um sistema de gestão de clientes (CRUD) utilizando SQLite e um Chatbot com Inteligência Artificial para classificação de intenções usando Machine Learning.
 
